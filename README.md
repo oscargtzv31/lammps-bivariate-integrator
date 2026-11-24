@@ -1,2 +1,2 @@
-# lammps-bivariate-integrator
-Langevin bivariate integrator for LAMMPS
+# Langevin bivariate integrator for LAMMPS
+
