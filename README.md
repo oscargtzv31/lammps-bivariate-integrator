@@ -32,9 +32,8 @@ fix ID group-ID langevin/chand Tstart Tstop damp seed
 fix 1 all langevin/chand 2.50 2.50 0.10 482719
 ```
 
-## References
+## Citation
 
-[Santamaria2016] R. Santamaria, A. Alvarez de la Paz, L. Roskop, and L. Adamowicz; *Statistical Contact Model for Confined Molecules*, Stat. Phys. **164**, 1000-1025 (2016).
-
+If you use this code in your research, please cite:
+* R. Santamaria, A. Alvarez de la Paz, L. Roskop, and L. Adamowicz; *Statistical Contact Model for Confined Molecules*, Stat. Phys. **164**, 1000-1025 (2016).
 * O. Gutiérrez-Varela, M. A. Alderete-Lezama, and R. Santamaria, *"Langevin Dynamics via Bivariate Stochastic Integration"*, submitted (2026).
-
